@@ -32,7 +32,7 @@ To get a local copy up and running, follow these simple steps.
 
 # Live Demo
 
-🔗 Live App: (Add your deployed link here)  
+🔗 Live App: https://project-management-app-hazel-six.vercel.app/  
 🔗 Repository: https://github.com/efoosag/project-management-app
 
 
